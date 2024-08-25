@@ -12,6 +12,7 @@ export class CreateEmployeeComponent implements OnInit {
   constructor() {};
   
   ngOnInit(): void {
-    
   }
+  
+  onSubmit(){};
 }
