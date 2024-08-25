@@ -10,3 +10,7 @@
     text-align: center;
     color: white;
 }
+
+.form-group {
+    margin-bottom: 1rem;
+}
